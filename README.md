@@ -1,2 +1,2 @@
 # Online_news_popularity_prediction
-A regression analysis of the popularity of online news articles based on various features
+To predict the popularity of online news articles, measured by factors like reads, likes, and shares, we aim to leverage machine learning techniques to identify which stories are likely to gain recognition. Our project analyzes a dataset of 39,643 articles from the website Mashable, focusing on developing a simple yet effective classification algorithm to predict the likelihood of an article becoming popular even before its publication. By optimizing for accuracy and simplicity, our goal is to provide a reliable model that can assist in content strategy and decision-making for online news platforms.
